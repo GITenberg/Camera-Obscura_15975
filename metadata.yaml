@@ -1,0 +1,30 @@
+_repo: Camera-Obscura_15975
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15975-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hildebrand
+    aliases:
+    - Beets, Nicolaus
+    - Beets, Nicolaas
+    birthdate: 1814
+    deathdate: 1903
+    gutenberg_agent_id: '6404'
+    url: http://www.gutenberg.org/2009/agents/6404
+    wikipedia: http://en.wikipedia.org/wiki/Nicolaas_Beets
+description: ''
+gutenberg_issued: '2005-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15975'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Dutch literature'
+title: Camera Obscura
+url: http://www.gutenberg.org/ebooks/15975
