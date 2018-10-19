@@ -11,6 +11,7 @@ Title: Camera Obscura
 Author: Hildebrand
 
 Release Date: November 3, 2008 [EBook #15975]
+Last Updated: February 27, 2018
 
 Language: Dutch
 
@@ -29,29 +30,23 @@ Proofreading Team at http://www.pgdp.net
 
 
 
+                             CAMERA OBSCURA
 
+                                  Van
 
-                                 Camera Obscura
-
-                                      Van
-
-                                   Hildebrand.
-
-
+                              Hildebrand.
 
 
                         Nec lusisse pudet, sed non incidere ludum.
                                                            Horatius.
 
 
+                       Negen en twintigste druk.
 
+                       Haarlem De Erven F. Bohn.
 
+                                 1917.
 
-                           Negen en twintigste druk.
-
-                           Haarlem De Erven F. Bohn.
-
-                                     1917.
 
 
 
@@ -75,7 +70,11 @@ Proofreading Team at http://www.pgdp.net
 
 
 
-Voorbericht, Zesde Druk; 1864.
+
+
+
+
+VOORBERICHT, ZESDE DRUK; 1864.
 
 
 Het is nu juist vijfentwintig jaren geleden dat, in het najaar
@@ -196,7 +195,7 @@ liefhad. En, ook na vijfentwintig jaren, is dat gemoed niet veranderd.
 Ook in den Vreemde is zijn arbeid niet onopgemerkt gebleven. Behalve
 vertalingen van enkele episoden (die van _Keesje_ en van de
 _Verguldpartij_) in het Bngelsch in _Fraser's_ en in _Chamber's
-Magazine_ (1854), en in het Fransch in de _Revue des Deux Monden_
+Magazine_ (1854), en in het Fransch in de _Revue des Deux Mondes_
 (1856) blijkbaar van zeer bekwame hand, en van _Gerrit Witse_,
 in het Hoogduitsch in _Die Niederlande_ door _Dr. Alb. Wild_
 (1862), zag eene volledige overzetting van de _Camera Obscura_,
@@ -229,7 +228,12 @@ weten wat de Fransche _gardes_ er van gemaakt hebben [2].
 H.
 
 
-Bijvoegsel, Veertiende Druk; 1883.
+
+
+
+
+
+BIJVOEGSEL, VEERTIENDE DRUK; 1883.
 
 
 Ziedaar het voorbericht der _zesde_ uitgave, in deze _veertiende_
@@ -326,7 +330,6 @@ niet onthouden.
 
 
 
-
 Zoomin als bij de elkander schielijk opgevolgde 15de, 16de, 17de,
 18de en 19de, heeft de Schrijver, bij deze 20_ste_ uitgave, aan
 het bovenstaande iets toe te voegen dan de verzekering, dat hij ook
@@ -345,8 +348,8 @@ het licht. (Haarlem, De Erven F. Bohn.)
 
 
 
-Inhoud.
 
+INHOUD.
 
 
     Jongens. 1
@@ -355,7 +358,6 @@ Inhoud.
     Een onaangenaam mensch in den Haarlemmerhout. 19
     Humoristen. 33
     Familie Stastok. 36
-
         De Aankomst. 36
         De Ontvangst. 38
         Hildebrand ziet de stad, en Pieter verstout zich pot te
@@ -365,23 +367,17 @@ Inhoud.
         te passeeren. 57
         Pieter is waaratje verliefd, en hoe wij uit spelevaren
         gaan. 71
-
     Varen en Rijden. 88
     Genoegens smaken. 98
     Een Oude Kennis. 103
-
         Hoe warm het was, en hoe ver. 108
         Hoe aardig het was. 110
         Hoe voortreffelijk zij was. 115
-
     Verre vrienden. 120
     Narede, en Opdracht aan een vriend. 129
-
         Eerste uitgave. 129
         Tweede uitgave. 131
-
     De Familie Kegge. 135
-
         Een treurige inleiding. 135
         Kennismaking met menschen en dieren. 139
         Een juffertje en een mijnheer. 150
@@ -397,16 +393,13 @@ Inhoud.
         voor ditmaal niet helpen kan. 195
         Het Hofje. De heer van der Hoogen af. 201
         Een groote Hans en Adellijke Heer. Besluit. 209
-
     's Winters buiten. 214
     Gerrit Witse. 227
-
         Studentenangst. 227
         Oudervreugd. 233
         Meisjeskwelling. 237
         Vrienden-hartelijkheid. 244
         Dokters lief en leed. 260
-
     Bijvoegsel der Derde Uitgave tot de Narede en Opdracht aan een
     Vriend. 267
     Laatste Bijvoegsel. 269
@@ -417,29 +410,22 @@ _Verspreide stukken van Hildebrand_.
 _De Gids_, Jaargang 1837, 1838. _Proza en Poezy, Verspr. Opstellen
 en Verzen._ Haarl. 1840.
 
-
     Vooruitgang. 273
     Het Water. 279
     Begraven. 284
     Eene Tentoonstelling van Schilderijen. 292
     De Wind. 302
 
-
 _Souvenirs d'un Voyage à Paris_, par _J. Kneppelhout_. Leyde, 1139.
-
 
     Antwoord op een brief uit Parijs. 305
 
-
 _Leeskabinet_, Jaarg. 1811 (_De Patrijzen._)
-
 
     Teun de Jager. 308
 
-
 _De Nederlanden. Karakterschetsen enz._, 's Gravenhage,
 Nederl. Maatsch. van Schoone Kunsten. 1841-1842.
-
 
     De Veerschipper. 320
     De Schippersknecht. 323
@@ -453,20 +439,16 @@ Nederl. Maatsch. van Schoone Kunsten. 1841-1842.
     De Noordhollandsche Boerin. 347
     De Noordhollandsche Boer. 350
 
-
 _Ook het volgende stukje was voor _De Nederlanden_ bestemd en reeds in
 handen der redactie, toen het werk gestaakt werd, en de Maatschappij
 van Schoone Kunsten ophield te bestaan. Het verschijnt dus te dezer
 plaatse_ (1854) _voor het eerst in druk, om het dozijn schetsjes vol
 te maken._
 
-
     De Baker. 353
 
 
-
 _Hollandsche Illustratie 1865/1866._
-
 
     Brief van Hildebrand aan Schipper Rietheuvel. 356
 
@@ -475,39 +457,39 @@ _Hollandsche Illustratie 1865/1866._
 
 
 
-Jongens.
+
+JONGENS.
 
 
+                        Hoe zalig, als de jongenskiel
+                        Nog om de schouders glijdt!
+                        Dan is het hemel in de ziel,
+                        En alles even blijd.
 
-    Hoe zalig, als de jongenskiel
-    Nog om de schouders glijdt!
-    Dan is het hemel in de ziel,
-    En alles even blijd.
+                        Een hout geweer, een blikken zwaard
+                        Verrukken 's knapen borst,
+                        Een hoepel en een hobbelpaard,
+                        Dat draagt hem als een vorst.
 
-    Een hout geweer, een blikken zwaard
-    Verrukken 's knapen borst,
-    Een hoepel en een hobbelpaard,
-    Dat draagt hem als een vorst.
+                        Voor u de geur van 't rozenbed
+                        En Filomele's zang!
+                        Hij speelt kastie, dat 's andre pret!
+                        Met rozen op de wang.
 
-    Voor u de geur van 't rozenbed
-    En Filomele's zang!
-    Hij speelt kastie, dat 's andre pret!
-    Met rozen op de wang.
+                        Niets, niets ter wereld doet hem aan
+                        Of baart hem ongemak,
+                        Dan stuiters die te water gaan,
+                        Of ballen over 't dak.
 
-    Niets, niets ter wereld doet hem aan
-    Of baart hem ongemak,
-    Dan stuiters die te water gaan,
-    Of ballen over 't dak.
+                        Frisch op maar, jongen! vroeg en spa,
+                        Den lieven langen dag!
+                        Loop over 't veld kapellen na,
+                        Zoo lang het duren mag
 
-    Frisch op maar, jongen! vroeg en spa,
-    Den lieven langen dag!
-    Loop over 't veld kapellen na,
-    Zoo lang het duren mag
-
-    Haast zult ge op school gekortwiekt zijn;
-    Uw vreugd loopt snel naar 't end;
-    Haast krijgt gij Bröder tot uw pijn,
-    En Weytingh tot torment.
+                        Haast zult ge op school gekortwiekt zijn;
+                        Uw vreugd loopt snel naar 't end;
+                        Haast krijgt gij Bröder tot uw pijn,
+                        En Weytingh tot torment.
 
 
 Het oorspronkelijke is een lief versje van _Hölty_, die er wel
@@ -644,7 +626,11 @@ u voor die vreugde iets anders te kunnen geven dan ... een wensch!--
 
 
 
-Kinderrampen.
+
+
+
+
+KINDERRAMPEN.
 
 
 Ik kom nog eens terug op het versje van _Hölty_.
@@ -1003,7 +989,12 @@ eener schuldelooze jonkheid?
 
 
 
-Een Beestenspel.
+
+
+
+
+EEN BEESTENSPEL.
+
 
                         "Les peines infamantes sont:
 
@@ -1257,7 +1248,11 @@ niet met hun heimwee, niet met hun teringdood.
 
 
 
-Een onaangenaam mensch in den Haarlemmerhout.
+
+
+
+
+EEN ONAANGENAAM MENSCH IN DEN HAARLEMMERHOUT.
 
 
 Onbegrijpelijk veel menschen hebben familiebetrekkingen, vrienden of
@@ -1923,8 +1918,11 @@ waarmee ik hem had in kennis gebracht.
 
 
 
-Humoristen.
 
+
+
+
+HUMORISTEN.
 
 
                 Het legher treckt vast in met duizenden, een macht
@@ -2040,11 +2038,13 @@ Ten tweede, enz. enz.
 
 
 
-De Familie Stastok.
+
+
+
+DE FAMILIE STASTOK.
 
 
 De Aankomst.
-
 
 In het kleine stadje D---- werd op een donderdag in de maand October,
 des namiddags omtrent één ure, de stijle ijzeren trede neergelaten van
@@ -2166,8 +2166,8 @@ het toch niet hooren of ze zacht of hard overgaat.
 
 
 
-De Ontvangst.
 
+De Ontvangst.
 
 Het duurde een minuut of wat alvorens een eigenaardig sloffen in het
 voorhuis de aankomst eener bejaarde keukenmeid verried, die eerst
@@ -2358,8 +2358,8 @@ waarvan ik evenwel, om billijk te zijn, erkennen moet, dat hij in
 
 
 
-Hildebrand ziet de stad, en Pieter verstout zich pot te spelen.
 
+Hildebrand ziet de stad, en Pieter verstout zich pot te spelen.
 
 Ik werd des anderen daags om zeven uren waker, en toen ik de groene
 saaien gordijnen openschoof om te zien wat voor weer het was,--welke
@@ -2705,7 +2705,6 @@ Het eten stond reeds op tafel. _Pieter_ had geen honger.
 
 Het diakenhuismannetje vertelt zijn historie.
 
-
 Drie dagen had ik bij de familie _Stastok_ vertoefd, en in dien
 tijd was ik groote vrienden met _Keesje_ geworden. Een paar malen
 had hij mij door de stad vergezeld om mij den weg te wijzen, als
@@ -3006,7 +3005,7 @@ me hart gehad.... en nou is het weg..."
 "Heeft _Klaas_ het gestolen?" vroeg ik.
 
 "Neen!"--zei hij, uit het droef gepeins, waarin zijn eigen laatste
-woord hem gestort had, oplevende: maar hij is er achter gekomme dat
+woord hem gestort had, oplevende: "maar hij is er achter gekomme dat
 ik et had. _Zijn_ kreb staat naast _mijn_ kreb. Of ie et gezien het
 as ik me uitkleedde, of as ik me aankleedde, of toen ik ziek was, of
 dat ik er hardop van gedroomd heb, ik weet et niet. Ik zou wel haast
@@ -3143,9 +3142,9 @@ gedacht?
 
 
 
+
 Er komen menschen op een kopje thee, om verder het avondje te
 passeeren.
-
 
 Des zondagsavonds was de tuinkamer in haar schitterendste pracht. Ik
 zal pogen er u een flauw denkbeeld van te geven.
@@ -3436,7 +3435,7 @@ rok onder 't spreken onderscheidene kleine tikjes mee te geven--"onze
 vaderen ... ik vraag je of ze der zoo veel slechter aan waren dan
 wij?--onze vaderen, mijnheer! hielden zich met die dingen niet op".
 
-"Neen!" verklaarde mijn oom, in edele opgewondenheid een versehe pijp
+"Neen!" verklaarde mijn oom, in edele opgewondenheid een versche pijp
 stoppende, "dat waren andere menschen! die wisten--_Piet_, geef me 't
 komfoortje reis aan--die wisten handen uit de mouw te steken, al zeg
 ik 't zelf;--en wat ik altijd zeg--ze pasten op er tijd. _Mijn_ vader
@@ -3585,7 +3584,7 @@ klonk het over de tafel.
 Het was het speelwerk in de lamp, door mijn tante, in schijn van
 lepeltjes uit het lepeldoosje, dat vóór den olifant stond, te zoeken,
 opgewonden. Ik begreep na waarom zij er zoo op gesteld was geweest,
-dat mevrouw _Dorbeen_ haar reciet mocht nebben uitgesteld.
+dat mevrouw _Dorbeen_ haar reciet mocht hebben uitgesteld.
 
 Mevrouw _Dorbeens_ oogen, die net gereed stonden om met
 
@@ -3617,7 +3616,7 @@ Het was een tartend geluid voor mevrouw _Dorbeen_, en zij beefde
 inwendig van toorn. Zij hield zich evenwel goed, en met langzame
 teugen een kopje slemp uitgedronken hebbende, zei ze:
 
-"Och! het vers was zoo goed als uit; de vrienden verliezen er met
+"Och! het vers was zoo goed als uit; de vrienden verliezen er niet
 veel bij. Nu zal _Koosje_ wel eens wat willen doen."
 
 _Koosje_ bloosde, en zei met de oogen op haar moeder geslagen:
@@ -3868,7 +3867,7 @@ _Pieter_. [9]
 
 "Ja," zei mijnheer de makelaar. "Dat is een rare kerel, naar ik
 hoor. Hij schrijft voor geld, mijnheer; hij schrijft voor geld;
-pro en contra schrijft hij voor geld.'
+pro en contra schrijft hij voor geld."
 
 "Ja," zei oom, zijn pijp uitkloppende, "die Franschen! 't Is een raar
 volk; al zeg ik 't zelf."
@@ -3920,8 +3919,8 @@ ik naar bed.
 
 
 
-Pieter is waaratje verliefd, en hoe wij uit spelevaren gaan.
 
+Pieter is waaratje verliefd, en hoe wij uit spelevaren gaan.
 
 De knorrigheid, waarmee _Pieter_ was te bed gegaan, was mij in 't
 geheel geen raadsel geweest. Men heeft opgemerkt dat hij den geheelen
@@ -4021,7 +4020,7 @@ kunt minnekoozen!"
 Er kwam geen antwoord. _Pieter_ haastte zich schrikkelijk met kleeden
 en liep de trappen af. Toen ik beneden kwam, zat hij veilig onder
 de vleugelen van zijne ouders een pijp te rooken, als een Fransch
-romanticus zeggen zou: "enveloppe dé sa colère".
+romanticus zeggen zou: "enveloppé de sa colère".
 
 Na den ontbijt ging hij in den tuin, ik volgde hem op de hielen.
 
@@ -4343,7 +4342,7 @@ van zoo dikwijls ik wilde het gesprek niet te hooren.
 
 "Maar wil ik je nou niet reis aflossen, men lieve galeiboeven?" vroeg
 _Dolf_ ons met hartelijkheid nadat we een goed half uur geroeid
-hadden. "Ik zit hier maar sigaartjes te rooken aan 't roer.'
+hadden. "Ik zit hier maar sigaartjes te rooken aan 't roer."
 
 "Hoor," riep ik hem toe, "ik zal je zeggen wat het plan is. _Pieter_
 heeft me gesproken van een boerderij, waar we aan kunnen leggen om
@@ -4832,7 +4831,11 @@ en waarover de bejaarde tweede luitenant een waakzaam oog hield.
 
 
 
-Varen en Rijden.
+
+
+
+
+VAREN EN RIJDEN.
 
 
 Men is bezig in mijn vaderland spoorwegen aan te leggen. Het heeft
@@ -4971,9 +4974,9 @@ manier van reizen moeten gerekend worden, en ik stel voor, hen in
 drie klassen te verdeelen, en alzoo te brengen tot:
 
 
-       Slapers,
-       Rookers,
-    en Praters.
+               Slapers,
+               Rookers,
+            en Praters.
 
 
 De Slapers staan bij mij op den laagsten, den minst schuldigen trap van
@@ -5208,7 +5211,7 @@ na, weder op het dek komen, "'t Is beneden schrikkelijk benauwd." "Ja,
 dat is 't geval wel van een stoomboot". "Die kajuiten zijn laag." "Dat
 flikkeren van de zon op 't water, gij kunt niet gelooven wat een
 onaangenaam effect het door de glasruiten doet". "Jammer dat het zoo
-zonnig is en zoo waait." "Ik tref het nooit dat de tent opgszet kan
+zonnig is en zoo waait." "Ik tref het nooit dat de tent opgezet kan
 worden." En nu zit men op de lantaren, en dan aan de verschansing,
 en dan bij het stuurrad; en dan loopt men weder heen en weer; en dan
 wordt de overjas aan-, en dan weer uitgetrokken. Nu is het een op- en
@@ -5296,7 +5299,11 @@ November 1837.
 
 
 
-Genoegens smaken.
+
+
+
+GENOEGENS SMAKEN.
+
 Uit de correspondentie met Augustijn.
 
 
@@ -5539,12 +5546,13 @@ _Hildebrand_.
 
 
 
-Een Oude Kennis.
 
+
+
+EEN OUDE KENNIS.
 
 
 Hoe warm het was, en hoe ver.
-
 
 Het was een brandendheete vrijdagachtermiddag in zekere Hollandsche
 stad; zoo heet en zoo brandend, dat de mosschen op het dak gaapten,
@@ -5575,7 +5583,7 @@ een pijp zat te rooken, in gezelschap van een violier en een balsamine,
 zich verheugende in den "ouërwetschen dag weer"
 
 Bij eene dergelijke weersgesteldheid heeft men waarlijk te weinig
-medelijden met dikke menseben. Wáár is het, dat zij u dikwijls
+medelijden met dikke menschen. Wáár is het, dat zij u dikwijls
 warm en benauwd maken, als ge u door bedaardheid en kalmte nogal
 schikken kunt in de hitte, door bij u te komen blazen en puffen en
 eene onweerstaanbare aanvechting te doen blijken om hun das los te
@@ -5606,8 +5614,8 @@ en zomer warm hebben door drift, opvliegendheid en agitatie.
 De heer Mr. _Hendrik Johannes Bruis_ bewoog zich op bovenbeschreven
 brandendheeten vrijdagachtermiddag, omstreeks klokke vijf uren, langs
 een der straten van de stad, die ik niet genoemd heb, en zulks, de
-hitte des dags en zijn postuur in aanmerking genomen, veel te snel. Hi]
-hield in de eene hand zijn hoed, en in de andere zijn gelen zijden
+hitte des dags en zijn postuur in aanmerking genomen, veel te snel.
+Hij hield in de eene hand zijn hoed, en in de andere zijn gelen zijden
 zakdoek en zijn bamboes met ronden ivoren knop, met welken knop hij
 zich verscheiden malen in schutterige beweging tegen 't hoofd stiet,
 als hij den zakdoek gebruiken wilde. Achter hem aan huppelde een kleine
@@ -5627,7 +5635,7 @@ Mr. _Hendrik Johannes Bruis_ ongeduldig.
 "de tweede deur voorbij den spekslager; naast het huis daar die
 spiegeltjes uitsteken."
 
-"Goed, goed, goed," zei de heer Mr. _H.J. Bruis_.
+"Goed, goed, goed," zei de heer Mr. _H. J. Bruis_.
 
 
 
@@ -5759,7 +5767,7 @@ Hij keek smachtend de straat door, of er ook nog een jongen was,
 die hem derwaarts brengen kon; maar niemand deed zich op.
 
 De meid verwaardigde zich intusschen de vereischte inlichting te geven,
-en de heer Mr. _H.J. Bruis_ trok naar het Buiten van Dr. _Deluw_.
+en de heer Mr. _H. J. Bruis_ trok naar het Buiten van Dr. _Deluw_.
 
 Toen hij een huis of wat verder was, bemerkte hij pas, dat hij zijn
 jas nog over den arm en zijn valies nog in de hand droeg.
@@ -5878,7 +5886,7 @@ Veldzicht, maar het was toch Veldzicht niet.
 Eindelijk waren er twee deuren, daar niets op te lezen stond dan Q 4
 N_o_ 33 en Q 4 N_o_ 34. Een van die beide deuren kon Veldzicht zijn! De
 heer _Bruis_, hoe driftig ook en ongeduldig, was bescheiden. Hij ging
-dus N_o_ 33 voorbij, om met het eerste het beste voor Veldzicht aan
+dus N_o_ 33 voorbij, om niet het eerste het beste voor Veldzicht aan
 te zien, en klopte aan N_o_ 34.
 
 Na een poosje wachtens, werd hem opengedaan door een zeer lange,
@@ -5899,8 +5907,8 @@ De heer _Bruis_ klopte aan Q 4 N_o_ 33.
 
 
 
-Hoe aardig het was.
 
+Hoe aardig het was.
 
 "_Jansje_! daar wordt geklopt;" riep een vrouwelijke stem.
 
@@ -6222,8 +6230,8 @@ brengen."
 
 
 
-Hoe voortreffelijk zij was.
 
+Hoe voortreffelijk zij was.
 
 Mevrouw _Deluw_ was niet ver af, bezig met _Jansje_ te beknorren
 over het leven dat zij maakte; "zij wist ook niet", zei ze met een
@@ -6463,7 +6471,11 @@ suiker, en dronk het in ééne teug uit.
 
 
 
-Verre Vrienden.
+
+
+
+
+VERRE VRIENDEN.
 
 
 Het is eene onbeschrijfelijke gewaarwording en een geheel eigensoortig
@@ -6870,7 +6882,11 @@ dezelfde Voorzienigheid! Zij zegene een iegelijk uwer. Gedenkt mijner.
 
 
 
-Narede, en opdracht aan een vriend.
+
+
+
+
+NAREDE, EN OPDRACHT AAN EEN VRIEND.
 
 (Eerste Uitgave.)
 
@@ -6948,7 +6964,7 @@ tot afdrukken. Toen sloop ik weet niet welke hand nogmaals in de
 proef en verkorf het weer. Ik val die hand niet hard. Zij volgde
 het voorbeeld van vele en van bekwame handen. Maar ik bedroef mij,
 lief_sche_ vriend, dat men thans zoo onkundig_sch_ onze schoon_sche_
-moedertaal is geworden, en zoo gewoom_sch_ aan dien verkeerd_schen_
+moedertaal is geworden, en zoo gewoon_sch_ aan dien verkeerd_schen_
 uitgang, dien men bij de oud_schere_ schrijvers te vergeefs zoeken zou.
 
 Ziedaar eene lange historie van ééne enkele drukfout. Op bladzij 101
@@ -6984,8 +7000,9 @@ bladzij beginnen, dat het bijna op 't zelfde neerkomt.
 October 1839.
 
 
-(Tweede Uitgave.)
 
+
+(Tweede Uitgave.)
 
 Zoo schreef ik voor zes maanden. Thans nog een enkel woord.
 
@@ -7039,29 +7056,33 @@ April, 1840.
 
 
 
-                                      Aan
-
-                        Dr. _Abraham Scholl van Egmond_
-
-                          Zijn oudsten academievriend
-
-                         Worden de voorgaande bladeren
-
-                              In liefde toegewijd
-
-                                      Door
-
-                                 _Hildebrand_.
 
 
 
+                                  Aan
 
-De Familie Kegge. [14]
+                    Dr. _Abraham Scholl van Egmond_
 
+                      Zijn oudsten academievriend
+
+                     Worden de voorgaande bladeren
+
+                          In liefde toegewijd
+
+                                  Door
+
+                             _Hildebrand_.
+
+
+
+
+
+
+
+DE FAMILIE KEGGE. [14]
 
 
 Eene treurige inleiding.
-
 
 Wie kent niet die ontzettende ziekte, die men in het dagelijksch
 leven met den gevreesden naam van zenuwzinkingkoorts gewoon is
@@ -7252,7 +7273,6 @@ _Jan Adam Kegge_."
 
 
 Kennismaking met menschen en dieren.
-
 
 Eenigen tijd na de ontvangst van dit "reukoffer", hetwelk mijne
 vrienden niet nagelaten hadden van lieverlede voor mij in geur te
@@ -7823,8 +7843,8 @@ inbrengen, maar waarvan ik het ijselijke zoo ijselijk niet inzie.
 
 
 
-Een juffertje en een mijnheer.
 
+Een juffertje en een mijnheer.
 
 Terwijl wij nog zaten te schemeren ging de deur open, en door twee of
 drie van de kinderen werd eene vrouwelijke gestalte meer binnengegooid
@@ -8163,8 +8183,8 @@ uit te staan dan dat hij nu en dan een wissel op hem trok.
 
 
 
-Vaderangsten en kinderliefde.
 
+Vaderangsten en kinderliefde.
 
 Wie _Hildebrand_ te logeeren vraagt, krijgt, durf ik zeggen, geen al
 te lastigen gast in hem; maar op één ding is hij zeer gesteld. Hij
@@ -8409,7 +8429,7 @@ hebben."
 
 "Dat zal slecht gaan, meheer _Kegge_," antwoordde _Barend_.
 
-"Voor geld en goede woorden, _Barend_!" hernam _Kegge_; 't kan me
+"Voor geld en goede woorden, _Barend_!" hernam _Kegge_; "'t kan me
 niet schelen wat het kost; je weet wel dat ik op geen kleintje zie."
 
 "Allemaal goed," zei _Barend_; "maar je kent de natuur niet
@@ -8447,7 +8467,7 @@ zoo bitter uit den tijd is. Is het voor mevrouw?"
 "Neen, _Barend_! voor me dochter."
 
 "Kom an!" hernam hij, "da's etzelfde; de dames zijn onze beste klanten
-voor de blommen; maar as we 't van de blommen hebben mosten!'
+voor de blommen; maar as we 't van de blommen hebben mosten!"
 
 "Maar waar drommel moet je 't anders van hebben?"
 
@@ -8681,7 +8701,6 @@ er nog schik in zou hebben...."
 Om te bewijzen dat eenvoudige genoegens ook genoegens zijn; en voorts
 iets droevigs.
 
-
 De verguldpartij zou uiterlijk te half zes aanvangen, en tegen dat
 uur begaf ik mij op weg naar de woning van den koekebakker _De Groot_
 of, zooals _Henriette_ altijd zeide, van "de _De Grooten_". Zij was
@@ -8738,7 +8757,7 @@ het raam van dit atelier.
 
 Op den hoek van 't huis hing een groot uithangbord, waarop de bekende
 geschiedenis van den Zoeten Inval stond afgebeeld, en daar onder
-"H.P. _De Groot_. _Alle zoorten van koek en kleyngoed_." Ik trad den
+"H. P. _De Groot_. _Alle zoorten van koek en kleyngoed_." Ik trad den
 winkel binnen, en er was zulk een verward geluid van vrouwestemmen
 in een belendende kamer, die door een glazen deur met een groen
 horretje daarop uitzag, dat ik duidelijk bemerkte dat de partij aan
@@ -8947,7 +8966,7 @@ met denzelfden _Kees_ in 't paardespel geweest was; en die van de
 blauwe céphalide werd opgeroepen om te getuigen dat het tusschen haar
 zuster en _Kees_, "ja, ja! wel zoo wat koek en ei was, als men zegt";
 waarop die van de roode zeide, dat die van de blauwe wel zwijgen mocht;
-waarop _Grietje van Buren_" aanmerkte, dat ieder zijn beurt kreeg;
+waarop _Grietje van Buren_ aanmerkte, dat ieder zijn beurt kreeg;
 waarop _Bartje Blom_ uitriep: "Nu, nu _Grietje_; ik vertrouw jou
 ook niet! je gaat tegenwoordig zoo dikwijls naar Amsterdam; ik denk
 dat daar ook wat zit!" waarop _Grietje_ verklaarde, dat _Bartje_
@@ -9002,7 +9021,7 @@ HEd. maagdelijken schoot geworpen; daarover werd een zakdoek gespreid,
 en nu begon het roepen van: wat zal diegene doen, van wien ik dit
 pand in de hand heb?
 
-Ik spreek niet van de moeielijke en wonder spreukigedingen, die wij
+Ik spreek niet van de moeielijke en wonderspreukige dingen, die wij
 tot het terugbekomen onzer kleinoodiën moesten ten uitvoer brengen;
 als met vier pooten tegen den muur oploopen, een spiegel stuk trappen,
 den zolder zoenen, en dergelijke; noch van zoete penitentiën, als
@@ -9134,8 +9153,8 @@ _Henriette Kegge_ wilde hooren bespotten.
 
 
 
-De Grootmoeder.
 
+De Grootmoeder.
 
 Toen ik den volgenden morgen na het ontbijt de bibliotheek binnentrad,
 zat daar de oude dame in een ruimen lagen leunstoel met roodlederen
@@ -9244,8 +9263,8 @@ bewaarde. Zij nam er eenen op en tuurde een poosje op het adres.
 "Hij schreef een mooie hand; deed hij niet?" zeide zij, en reikte
 mij den brief toe.
 
-Ik las het adres. Het luidde: "Aan Mevrouw E. _Marrison_."--E.M." Dat
-waren de voorletters die op den ring gegraveerd stonden, dien
+Ik las het adres. Het luidde: "Aan Mevrouw E. _Marrison_."--"E.M."
+Dat waren de voorletters die op den ring gegraveerd stonden, dien
 hij mij op zijn sterfbed gegeven had. E.M.! Ik had aan dien ring
 een ganschen roman geknoopt; in die letters den naam van een lief,
 jeugdig meisje gelezen, dat haar jong hart reeds vroeg voor _William_
@@ -9326,8 +9345,8 @@ zijne oogen:
 
 
 
-Een Concert.
 
+Een Concert.
 
 De belangrijke dag, waarop (zoo als de charmante gezegd had) al wat in
 de stad smaak had, en ik voeg er bij, lid was van het concert Melodia,
@@ -9445,7 +9464,7 @@ neus en maakte daarmee de schoonst mogelijke lijn. Groote lichtkleurige
 oogen werden door lange zwarte pinkers, die er iets buitengewoon
 zachts en ernstigs aan gaven, omzoomd en de zuiverheid harer donkere
 wenkbrauwen was benijdenswaardig. Haar mond zou iets stroefs gehad
-hebben, indien met de vrindelijkheid van haar doordringend oog dit had
+hebben, indien niet de vrindelijkheid van haar doordringend oog dit had
 weggenomen. Zij was middelmatig groot en hield zich volkomen recht,
 behalve dat zij niet den hals, maar het hoofd misschien een weinig
 gebukt hield. Haar kleed was van een lichtgrijze kleur, en een kleine
@@ -9587,7 +9606,7 @@ met het gadeslaan van een dik heer achter op het orkest, die den
 duizendkunstenaar had geëngageerd en allerliefste knipoogjes aan alle
 de leden rondzond, die tegelijkertijd moesten beduiden hoe heerlijk
 hij het vond, en vragen of zij het ook niet heerlijk vonden; en van
-een langjong mensch dicht bij mij, met zwarte haren en bleeke wangen,
+een lang jong mensch dicht bij mij, met zwarte haren en bleeke wangen,
 die zijne oogen aandachtig toedeed onder het spel en de maat met zijn
 teenen sloeg, en dan weer een "hoe-is-het-mogelijk!"-gezicht zette en
 een schrikkelijken nood had om aan iedereen te vertellen hoe familiaar
@@ -9884,8 +9903,8 @@ en dit alles was ter eere van juffrouw _Henriette Kegge_.
 
 
 
-Ochtendbezoek en Avondwandeling.
 
+Ochtendbezoek en Avondwandeling.
 
 Des anderen daags vóór den middag werd de goede _De Groot_ aangediend
 en trad de kamer binnen verzelschapt van zijn lieve dochter, die een
@@ -9930,7 +9949,7 @@ toon op volgen, "ik weet dat gij het goed meent."
 
 En zij reikte hem de hand.
 
-Hij nam die niet vervoering aan en trok haar naar de vensterbank.
+Hij nam die met vervoering aan en trok haar naar de vensterbank.
 
 "Wie is die man?" vroeg hij, den goeden _De Groot_ van het hoofd tot
 de voeten opnemende.
@@ -9981,7 +10000,7 @@ uurtje boven, en kwam daarna met roode oogen beneden.
 mij in.
 
 Ik had gelegenheid in den loop van den namiddag de lieve blonde
-eens zoo goed als alleen te spreken, en spoedig maakte ik daarvan,
+eens zoo goed als alleen te spreken, en spoedig maakte ik daarvan
 gebruik om het gesprek op haar vriendin _Noiret_ te brengen.
 
 Zij verhaalde mij van _Suzettes_ onvergelijkelijke gehechtheid aan
@@ -10225,7 +10244,7 @@ Ondertusschen was hij dagelijks voortgegaan met de jeugdige te
 bestormen, die hem waarschijnlijk wel niet liefhad, maar jong en
 onervaren zich aan hare behaagzucht overgaf en aan den prikkel van het
 romaneske, waartoe zij eenige neiging toonde. Daarenboven kon men aan
-_Van der Hoogen_ eenige uiterlijke voorrechtenniet ontzeggen. Het was
+_Van der Hoogen_ eenige uiterlijke voorrechten niet ontzeggen. Het was
 nu tusschen hen beiden een _stille_ liefdeshistorie geworden, dat wil
 zeggen, zoo gevaarlijk als eene liefdeshistorie zijn kan. Het biljet in
 den ruiker had dit voor mij boven allen twijfel verheven. Ondertusschen
@@ -10247,13 +10266,12 @@ Een hoofdstuk waarmee de auteur ijselijk verlegen is, omdat hij
 er zelf de mooie rol in speelt; iets dat hij wel weet dat hem in
 't geheel niet past, maar dat hij toch voor ditmaal niet helpen kan.
 
-
 _Hildebrand_, die door een samenloop van omstandigheden bestemd
 was om in deze geschiedenis een handelend persoon te worden, stond
 den volgenden morgen een half uur vroeger dan de vorige dagen op en
 liep met een gewichtig gelaat en groote stappen de kamer op en neer,
 eene beweging, die hij altijd aanneemt als hij over iets belangrijks
-of als hij over niets denken wil. Nu eens blikte bij veelbeduidend
+of als hij over niets denken wil. Nu eens blikte hij veelbeduidend
 op naar de giftige pijlen aan den wand, dan weder overzag hij zijne
 heldhaftige houding in den spiegel, en eindelijk wijdde hij een groot
 gedeelte zijner aandacht aan de musschen, die in den tuin af en aan
@@ -10429,7 +10447,7 @@ verwisselen, "het zwartje is zoo verd .... mooi."
 hebben. Ik heb uit louter vriendschap voor jou een halfjaar geijverd
 om den schimmelbek zin in de West te doen krijgen, en nu het eindelijk
 lukken zal, ga je niet je eigen drieguldens je glazen ingooien. Als
-de meid het immers vertelt, hebje gedaan.'
+de meid het immers vertelt, hebje gedaan."
 
 "Geen nood!" antwoordde _Van der Hoogen_; "jongens kerel! ik heb haar
 zoo'n char..." (daar had hij zich haast versproken!) "verd... mooi
@@ -10593,7 +10611,6 @@ trap opkwam.
 
 
 Het hofje. De heer van der Hoogen af.
-
 
 Het was heerlijk weer, en ik had niet veel lust mij terstond naar
 huis te begeven; ik verkoos liever nog eerst een stadssingel langs
@@ -10920,7 +10937,6 @@ kamer van _Van der Hoogen_ mijns ondanks beluisterd had.
 
 
 
-
 Ik kwam tehuis.
 
 "Zóó lang heeft die kerk toch niet geduurd, onsterfelijke!" riep de
@@ -11003,7 +11019,7 @@ bid ik u, eens aan wat dit geschrift behelst:
         _WelEdelgeboren Heer,_
             _UWEdelgeborens Dienstw. Dienaar,_
 
-            _P.G. van der Hoogen_.
+            _P. G. van der Hoogen_.
 
     _Van huis, zondagavond._      _Surnumerair etc._
 
@@ -11055,7 +11071,6 @@ oogenblik in zich bevatte.
 
 
 Een Groote Hans en Adellijke Heer. Besluit.
-
 
 Maandag één ure, na den middag; indien men namelijk burgerlijk genoeg
 is het om twaalf uren middag te noemen; op dien dag en dat uur,
@@ -11315,7 +11330,10 @@ zakdoek, en in het Engelsch deze woorden:
 
 
 
-'s Winters Buiten.
+
+
+
+'S WINTERS BUITEN.
 
 
 Bij de dingen, die men, zonder veel nadenken, gewoon is bij
@@ -11367,7 +11385,7 @@ en de kleine nachtvorsten die doen rillen, niet van koude, maar
 van schrik. Het heilig kerstfeest, op het land zoo liefelijk, zoo
 eerbiedig gevierd, en zich zoo harmonisch aansluitende aan de vredige
 stilte, die het voorgaat en opvolgt, geeft in de stad het teeken voor
-drukte en gewoel en feestgejuich van allerei aard; en na den ijslijken
+drukte en gewoel en feestgejuich van allerlei aard; en na den ijslijken
 nieuwjaarsdag, waarop honderden verkouden worden, wordt een eerlijk
 huisvader overstroomd van concertprogramma's, die hem met een benepen
 hart de hoofden zijner op uitgaan beluste dochters tellen doen; en er
@@ -11767,7 +11785,7 @@ verzocht heeft haar eens af te lossen. Den geheelen avond geen woord,
 geen blik van hem voor de schoone _Emmeline_; en den anderen dag het
 gerucht door de stad, dat zijn engagement met de freule E. te X., dat
 reeds sedert dezen zomer gehangen moet hebben, er dóór is.--Het hart
-der arme _Emmeline_ is gebroken . . . neen! vergiftigd. Van dezen
+der arme _Emmeline_ is gebroken ... neen! vergiftigd. Van dezen
 oogenblik af is de gansche wereld haar geveinsdheid en mommerij,
 en het geheele mannengeslacht louter valschheid. Echter wil ook zij
 een mom dragen en evenzeer veinzen. Maar kan zij het weren dat al
@@ -11958,10 +11976,14 @@ zalige overtuiging dat hij een rechte primula veris is.
 
 
 
-Gerrit Witse.
+
+
+
+
+GERRIT WITSE.
+
 
 Studentenangst.
-
 
 De goede stad Leiden heeft binnen den omtrek van hare deels nog
 staande, deels tot wandelingen geslechte wallen, twee territoriale
@@ -12297,8 +12319,8 @@ gevoel dien dag geen examen te zullen ondergaan.
 
 
 
-Oudervreugde.
 
+Oudervreugde.
 
 Met een geopenden brief in de hand en een glans van genoegen op het
 gelaat, begroette de heer _Witse_ zijne gade aan het ontbijt.
@@ -12505,8 +12527,8 @@ te hebben, Berlijn en Parijs zien zou leed geen twijfel.
 
 
 
-Meisjeskwelling.
 
+Meisjeskwelling.
 
 _Klaartje Donze_ zat in de zijkamer van mijnheer en mevrouw _Vernooy_
 in de vensterbank en maakte een schelkoord voor den aanstaanden
@@ -12728,7 +12750,7 @@ weetje, het allerhoogste; zoo veel als, zal ik maar zeggen, zooveel
 als primus op 't Latijnsche school. Hij was alle jaren primus. Weetje
 wat primus is, _Klaar_?"
 
-"Neen, tante!" zei _Klaartje_, die het zeer wel wist, maar meteen
+"Neen, tante!" zei _Klaartje_, die het zeer wel wist, maar met een
 allereenvoudigst gezicht.
 
 "Primus is," antwoordde tante op goelijken, onderwijzenden toon,
@@ -12899,8 +12921,8 @@ Zoo onschadelijk was de koppelliefhebberij van tante _Vernooy_.
 
 
 
-Vrienden-hartelijkheid.
 
+Vrienden-hartelijkheid.
 
 De dag van het groote feestmaal ter eere van _Gerrit Witse_,
 Med. Cand., die, als den lezer uit onze schets gebleken is, ten
@@ -13315,7 +13337,7 @@ hem over, zien moest de personage van _Hateling_, geplaatst... naast
 zijne moeder, zoover goed! maar ter andere zijde naast _Klaartje_,
 die aan zijn vaders andere hand gezeten was, dat was een ding, hetwelk
 hij mama niet vergeven kon, al had zij hem de drukke mevrouw _Stork_
-toebedeeld aan zijn rechter-, en den hartelijken mijnheer _Veknooy_
+toebedeeld aan zijn rechter-, en den hartelijken mijnheer _Vernooy_
 aan zijn linkerhand; want omdat de laatste de goedigste was, was hem
 het lot te beurt gevallen, geen andere dame te hebben dan mevrouw
 _Van Hoel_, die ook, om de waarheid te zeggen, wel voor twee dames
@@ -13529,7 +13551,7 @@ een plotselingen dood gevonden had. Het luidde aldus:
 
 Hoe geestig ook voorgedragen, dit meesterstuk van _Buizero_ had
 niet dat uitwerksel van vervroolijking, hetwelk de heer _Wagestert_
-daarvan gaarne gezien had. Er moest dua nog een punt aan gemaakt
+daarvan gaarne gezien had. Er moest dus nog een punt aan gemaakt
 worden, en _Gerrit_ was er het slachtoffer van.
 
 "En weetje nu wel, mijnheer de candidaat in de beide medicijnen! wat
@@ -13674,7 +13696,7 @@ door _Wagestert_, die niet, zooals _Vernooy_, naar den ouden stijl, de
 klaveren uit aardigheid _klavooren_, de harten, uit dito, beurtelings
 _harsens_ of _hartzeer_ noemde, en bij ieder hachelijk spel beweerde
 "dat het zoowel vriezen als dooien kon",--neen, de heer _Wagestert_
-was veel orgineeler en obstineerde zich de poppen nooit anders dan bij
+was veel origineeler en obstineerde zich de poppen nooit anders dan bij
 hare bijbelsche namen te noemen: _Sara_, _David_, _Esther_ enz. Maar
 _Hateling_ schermde er zacht fluisterend tegen _Klaartje_ met zijn
 "malheureux au jeu, heureux en mariage" tusschen, en speelde haar
@@ -13738,8 +13760,8 @@ gooiende, "ik wenschte wel dat ik een stommeling was."
 
 
 
-Dokters lief en leed.
 
+Dokters lief en leed.
 
 Twee jaren later zat de jongeling dien wij als Med. Cand. verlaten
 hebben, als Med. Doctor in eene Geldersche stad aan het ontbijt. De
@@ -13891,7 +13913,7 @@ overvloed, en zuinigheid en werkzaamheid onontbeerlijk zijn.
 
 Voor de deur vond onze arts de oudste dochter, een beeld van
 gezondheid, bezig een dier groote koperen melkkannen te schuren,
-die in heuvelachtige streken op hot hoofd gedragen worden.
+die in heuvelachtige streken op het hoofd gedragen worden.
 
 "Hoe gaat het met _Barte_?" vroeg hij haar.
 
@@ -13938,7 +13960,7 @@ de zieke."
 
 Nogmaals schudde de pastoor het hoofd.
 
-"Zou ze sterven, heer pastoor?' vroeg de broer andermaal.
+"Zou ze sterven, heer pastoor?" vroeg de broer andermaal.
 
 "Bij God zijn alle dingen mogelijk," troostte de geestelijke. Maar
 ook ditmaal schudde hij het hoofd. De goede oude hield van _Barte_.
@@ -14035,9 +14057,9 @@ Maar nog even hield zij haar paardjen in, dat zulks kwalijk genoeg
 scheen te nemen en met zijn kop trok en schudde, als van zoo kribbig
 een hitje te wachten was.
 
-"Dokter," zei _Klaartje_:, "hoe laat komt gij morgen bij de zieke?"
+"Dokter," zei _Klaartje_, "hoe laat komt gij morgen bij de zieke?"
 
-"Reeds in de vroegte, juffrouw _Donze_, 'was het antwoord.
+"Reeds in de vroegte, juffrouw _Donze_," was het antwoord.
 
 "Zoudt gij, terugkomende, even op Wildhoef willen aankomen, om te
 zeggen hoe het gaat?" vroeg zij blozende.
@@ -14061,14 +14083,14 @@ herhalende, die hij gegeven had, nam hij de thuisreis aan.
 Zijn eerste werk was een hoogen heuvel te beklimmen, of hij _Klaartjen_
 ook nog kon gewaar worden. Dit gelukte. Rustig zat zij achter haar
 lustig paardje, dat zij meesterlijk regeerde en eerlang vergunde in
-den stap te komen. Met een onuitsprekelijk welgevallen sloeg _Oerrit_
+den stap te komen. Met een onuitsprekelijk welgevallen sloeg _Gerrit_
 haar gade. "Welk eene ontwikkeling in dat meisje!" riep hij uit;
 "welk een kloekheid! Zulk een vrouw zou me lijken, verlegen en linksch
 als ik altijd ben. Zooals ik haar daar nu zie..."
 
 Maar het hitje sloeg een bijdehandschen zijweg in; echter niet dan
 na grooten lust geopenbaard te hebben om een tegenovergesteld pad
-van nabij in oogenschouw te nemen. _Klaartjb Donze_ was voor heden
+van nabij in oogenschouw te nemen. _Klaartje Donze_ was voor heden
 niet meer te zien. Maar morgen...
 
 _Cetera desunt._
@@ -14077,7 +14099,11 @@ _Cetera desunt._
 
 
 
-Bijvoegsel der Derde Uitgave tot de Narede en Opdracht aan een Vriend.
+
+
+
+
+BIJVOEGSEL DER DERDE UITGAVE TOT DE NAREDE EN OPDRACHT AAN EEN VRIEND.
 
 
 Bijna twaalf jaren zijn verloopen en de toegezegde "Nieuwe
@@ -14085,7 +14111,7 @@ Vertooningen" [21] verschenen niet. Wel lagen, reeds op het oogenblik
 der toezegging, eenige schetsen gereed, maar het _spelen_ met de
 Camera Obscura, waardoor ze tot een boekdeel zouden zijn aangegroeid,
 moest ophouden. De tijd van het _incidere ludum,_ waarvan mijn
-motto gesproken had  [22], was met nadruk daar. Ik kon voortaan mijn
+motto gesproken had [22], was met nadruk daar. Ik kon voortaan mijn
 instrument beter gebruiken.
 
 Sommige mijner vrienden beweren dat ik er sedert niet of weinig aan
@@ -14136,7 +14162,7 @@ geest, dien dit boekdeel ons herinnert, stonden wij nu en dan stil, als
 op een aanraking met het hoogere, met het hoogste. De tijd is gekomen
 om daaraan geheel ons hart over te geven en, bij het waarachtige
 licht, alles en allen, maar allereerst onszelven te zien. Neen, het
-is de vraag niet meer van _spelen,_ maar wel van wederom _kinderm
+is de vraag niet meer van _spelen,_ maar wel van wederom _kinderen
 te worden._ En daar is een _kind zijn_, waarin alleen de kracht,
 de wijsheid, en de vreugde van den man gelegen is.
 
@@ -14144,7 +14170,12 @@ de wijsheid, en de vreugde van den man gelegen is.
 
 
 
-Laatste Bijvoegsel.
+
+
+
+
+LAATSTE BIJVOEGSEL.
+
 (Zevende Uitgave.)
 
 
@@ -14213,7 +14244,7 @@ bevond het op dien morgen niet alzoo. Basterdnachtegalen, Bram! waar
 wij het mee deden en zoo gaarne de echten in hooren wilden, als er
 geen echte waren; basterdnachtegalen, anders niet'! Maar als ik bij uw
 graf stond en mijn eenzaam hart vol werd--daar hoorde ik op eenmaal den
-echten! Daar hief hij aan, luid en klaar, met die lange uithalen--,met
+echten! Daar hief hij aan, luid en klaar, met die lange uithalen--, met
 dat krachtig georgel, dat niemand hem nadoet. Het scheen mij een lied
 te uwer eere, vriend van gezang, vriend van schoone natuur en van al
 wat schoon was en welluidend! Vriend in alles van het _echte_!
@@ -14241,21 +14272,19 @@ ook uw naam in Nederland niet zal worden vergeten.
 
 
 
-Verspreide Stukken van Hildebrand.
 
 
+VERSPREIDE STUKKEN VAN HILDEBRAND.
 
 
 Vooruitgang [23].
 
+                                        Klein, klein kleuterken.
+                                        Wat doe jij in me hof!
+                                        Je plukt men al de bloemkens of
+                                        En maakt het veel te grof.
 
-    Klein, klein kleuterken.
-    Wat doe jij in me hof!
-    Je plukt men al de bloemkens of
-    En maakt het veel te grof.
-
-
-_Oud Deuntje_.
+                                        _Oud Deuntje_.
 
 
 Spoken! O, ik heb allen eerbied voor ons beter licht; maar het spijt
@@ -14306,7 +14335,7 @@ zij niet zouden durven navolgen. Eerst van engeltjes in jurkjes en
 broekjes, die hun spaargeld aan een arm mensch geven, op het oogenblik
 dat zij er speelgoed voor dachten te koopen; later van groote mannen,
 naar hun begrip versneden en pasklaar gemaakt [25]. En dan worden zij
-altijd _leerzame jeuqd_ en _here kinderen_ genoemd. Men weet niet dat,
+altijd _leerzame jeugd_ en _here kinderen_ genoemd. Men weet niet dat,
 ofschoon menig volwassene wenscht kind te zijn, er geen kind ter wereld
 is, dat zich gaarne dien titel hoort geven. Het verstandige woord van
 _Van Der Palm_ tot de jeugd: "Ik wil u niet vernederen, maar opheffen"
@@ -14377,7 +14406,7 @@ in plaats van tooverij--goochelboeken. Wat heeft de poëzie al niet
 verloren! Geen vogel feniks meer, zich in zijn ambergraf van geurig
 hout verbrandende en uit zijn asch herlevende; geen salamander meer,
 in het vuur ademende; geen palmboom meer, te weliger groeiende,
-naarmate hij meer gedrukt wordt. In spijt van het Engelsehe wapen,
+naarmate hij meer gedrukt wordt. In spijt van het Engelsche wapen,
 geen eenhoorn meer. Geen vliegende draak, geen basiliscus. Monsieur le
 Baron _De Buffon_ en andere liefhebbers van zijn stempel hebben al deze
 geslachten uitgeroeid; dreiging en moord blazende tegen alle illusiën,
@@ -14458,7 +14487,7 @@ niet minder gewichtig dan die van den _Médecin malgré lui_, als hij
 het hart van de linker- naar de rechterborst verplaatste--maar, bij
 voorbeeld! De ton van _Diogenes_ is een klein hutje geworden: alsof
 de grootste ton niet ruim zoo aardig was als het kleinste hutje ter
-wereld. Van de wolvin, die _Romulus_ en _Remus_ zoogde, in een gemeen
+wereld. Van de wolvin, die _Romulus_ en _Remus_ zoogde, is een gemeen
 vrouwspersoon gemaakt. _David_ was zoo klein niet, en _Goliat_ niet
 zoo heel groot. Men bedoelt het Hebreeuwsche, als men van _Erasmus_
 zegt, dat hij twaalf jaren oud was, eer hij het A. B. C. machtig was;
@@ -14506,8 +14535,8 @@ enz.
 
 
 
-Het Water
 
+Het Water
 
 Neen, ik kom van mijn denkbeeld terug dat er, in spijt van _Newton_
 en _Herschel_, eene verandering in ons wereldstelsel zou hebben
@@ -14563,7 +14592,7 @@ Een heldere, frissche, noordsche dag doet een mannelijk bewustzijn
 van kracht, een besef van gezondheid ontstaan. De koude geeft een
 edelen moed; zij sterkt de ziel gelijk de spieren. Men weet ook wel,
 wat mannen en wat beginselen het Noorden heeft voortgebracht; welke
-gezonde, reine, zuivere en heldere denkbeelden, er van het frissche
+gezonde, reine, zuivere en heldere denkbeelden er van het frissche
 Noorden zijn uitgegaan; welke edele krachten het forsche Noorden heeft
 ontwikkeld; welke reuzen, gewoon de sneeuwvlok in den baard te voelen
 en den hagelsteen te hooren kletteren op het harnas, met
@@ -14593,8 +14622,8 @@ gij wordt, van een noodzakelijk kwaad, een onbeschrijfbaar geluk, van
 eene gedoogde dienstbode, een gevierde prinses! Men moedigt u aan, men
 prijst, men verheft, men bewondert u: gij wordt aangebeden! Uren kan
 men u zitten aanstaren! Gij zijt het ideaal van winterheil! Gewis, voor
-de lustige vlammen gezeten, met het boek van een lievelmgsschrijver
-in de hand on het vooruitzicht van een krachtigen wintermaaltijd
+de lustige vlammen gezeten, met het boek van een lievelingsschrijver
+in de hand en het vooruitzicht van een krachtigen wintermaaltijd
 des middags, of van opwekkelijke punch des avonds, nu en dan een
 blik te slaan op het bevrozen tooneel, dat buiten is, de helderheid
 van hemel, aarde en haard te genieten, het flikkeren van de witte
@@ -14625,7 +14654,7 @@ dreunt; en de wind voert het witte, vlokkige schuim wijd en zijd
 mede. De harde rots siddert, en geheele brokken worden afgescheurd;
 de pasgeboren stroom voert ze mede als lichte vederen, en ploft ze
 neder in de diepte, waar alleen hij ze kan oplichten. Water! gij zijt
-de sterkste de krachtigste, de edelste der vier hoofdstoffen! De
+de sterkste, de krachtigste, de edelste der vier hoofdstoffen! De
 Aarde is stom, dood en roerloos; maar uwe stem is als de donder,
 uwe spraak heeft allerlei geluid; gij leeft, gij zijt als bezield;
 gij beweegt u naar alle kanten als eene kronkelende slang: als eene
@@ -14680,7 +14709,7 @@ gij den lust weerstaan met mij in dit bootje te stappen?--Reik mij
 de hand, en ik zal u midden in dit bekoorlijk tooneel brengen. Een
 oogenblik zal het geplas der riemen de liefelijke stilte afbreken,
 een oogenblik de effenheid gestoord worden, en dan zullen wij ons
-op den stroom laten drijven. 0 wellust! te drijven, te vlotten, zich
+op den stroom laten drijven. O wellust! te drijven, te vlotten, zich
 te laten gaan! losser van het stof der aarde, als een golf onder de
 golven, zich over te geven aan den vriendelijken Geest der wateren,
 wiens onzichtbare hand u voortstuwt over zijn gebied. Zie, nu is het
@@ -14700,9 +14729,9 @@ het schoonste sieraad aan het weelderig kleed der aardsche schepping!
 
 Maar des avonds, als zich de breede schaduwen nedervlijen aan uwen
 boezem; als de maan haar troostend licht doet trillen op uwe effenheid
-en al de sterren in u haren glans verdubbelen, dan, heerlijke vloed is
+en al de sterren in u haren glans verdubbelen, dan, heerlijke vloed! is
 er eene stem, die opstijgt uit uwe bedding, en roerend en verlokkend
-spreekt tot mijne ziel! Dan is het geluk, op den, alleruitersten rand
+spreekt tot mijne ziel! Dan is het geluk, op den alleruitersten rand
 des oevers te staan, mij overgevende aan zoet en weemoedig gepeins. En
 telkens als het windje zich verheft en in den stroom een stroomender
 plekje vormt, is het alsof de lokstem inniger en verleidender wordt. En
@@ -14756,6 +14785,7 @@ En laat ons nu nog eens stoken.
 
 
 _Buiten_, 9 Jan. 1838.
+
 
 
 
@@ -14970,7 +15000,7 @@ daden op aarde in onze bedehuizen ophangen; maar veel minder voegen
 er die beelden, welke er de aandacht van Hem afleiden en bij eigen
 grootheid stil doen staan. Neen, niets, niets moest de éénheid van
 doel in het heiligdom breken; alles moest op God wijzen--alleen op
-God! [28].
+God! [28]
 
 
 
@@ -15122,8 +15152,8 @@ en ontzaglijke dag des Heeren komt!
 
 
 
-Eene Tentoonstelling van Schilderijen.
 
+Eene Tentoonstelling van Schilderijen.
 
 Mijn vriend _Baculus_ heeft een klein boekje geschreven, waarin hij
 over het verval der kunst klaagt en een weinigje knort! Als oorzaak van
@@ -15148,7 +15178,7 @@ tegen en, als men de dingen een weinigjen uit de hoogte beziet, is
 men het zeker met hem eens; maar dan loopt men gevaar van fantastisch
 te worden, zooals de lieden van het onderzoek zeggen; daarom laat
 ons uit de laagte opkijken [29], en dan zullen wij toestemmen
-dat de jaarlijksehe expositiën groote en veelzijdige _nuttigheid_
+dat de jaarlijksche expositiën groote en veelzijdige _nuttigheid_
 hebben. Maar het is vervelend altijd over nuttigheden te praten;
 duizend "lezers" doen dit maandelijks in duizend lezingen; en voor
 een liefhebber der schilderkunst is één uurtjen in eene zijkamer met
@@ -15169,7 +15199,7 @@ huzaren-officier en de mislukte afbeelding van een opengesneden
 kabeljauw met bijhebbend gezelschap van roggen en mosselschelpen?
 
 En echter verzuim ik niet de tentoonstelling te bezoeken, en kan ik
-er met innig genoegen uren doororengen. Eerst maak ik den toer van
+er met innig genoegen uren doorbrengen. Eerst maak ik den toer van
 de schilderijen en doe er zooveel wetenschap op als noodig is om in
 de gezelschappen te redetwisten over "het mooiste van allen", vast
 besloten het met de vrouw des huizes of de liefste dochter eens te
@@ -15579,8 +15609,8 @@ geven?--
 
 
 
-De Wind.
 
+De Wind.
 
 Het stormt buiten. Hoort gij het, mijne vrienden? het stormt. De wind
 is verschrikkelijk: vlaag om vlaag; hij loeit om uw dak, hij fluit
@@ -15713,7 +15743,11 @@ October 1838.
 
 
 
-Antwoord op een brief uit Parijs [31].
+
+
+
+
+ANTWOORD OP EEN BRIEF UIT PARIJS [31].
 
 
 Eindelijk heb ik hem gezien, mijn vriend, gezien en bewonderd! Het
@@ -15855,7 +15889,10 @@ P.S. "Wisch de tranen over den dood van _Schotel_ uit uwe oogen.
 
 
 
-Teun de Jager.
+
+
+
+TEUN DE JAGER.
 
 
 Het laatste eenigszins teekenachtige dorp aan Hollands westelijken
@@ -15870,7 +15907,7 @@ het aangenaam schouwspel eener hooge, met dicht kreupelhout en koele
 bosschages bewassen duinhelling; en van die Heerlijkheid af, welke
 _Borselens, Brederodes_, en _Nassaus_ onder hare vroegere bezitters
 telt, tot aan ons klein Schoorl toe, gaat men, langs een bevallig
-slingerenden zandweg, ter wederzijde altijd in do schaduw van eiken,
+slingerenden zandweg, ter wederzijde altijd in de schaduw van eiken,
 iepen, berken en allerlei geboomte, langs welks stammen zich hier
 en daar het klare duinwater in kronkelende beekjes voortdringt,
 en waartusschen zich aan weerskanten, van afstand tot afstand, de
@@ -15894,7 +15931,7 @@ er een lief boschje bestaat, tusschen den Burg en het Schild, nietig
 overschot van vroegere woudpracht.
 
 Het was in de laatste dagen van September 183*, op een zeer vroegen
-morgen, voordat do zon nog op was, dat de kleine deur van een der
+morgen, voordat de zon nog op was, dat de kleine deur van een der
 boven beschreven stulpjes aan den duinkant nabij Schoorl openging,
 en zich een jonge man op den drempel vertoonde, die met oplettendheid
 lucht en windstreek in beschouwing nam. Een schoone bruingevlekte
@@ -15944,7 +15981,7 @@ algemeen, op dezen vroegen morgen had zien gaan, zij zou haar oogen
 nauwelijks geloofd hebben. Want nooit zag zij zijn oog zoo droevig,
 nooit zoo ter aarde geslagen; nooit was zijn stap zoo slenterend
 en onverschillig. Hij was bij haar voor den opgeruimdsten borst van
-het dorp bekend; en het zij bij de kinderen en nieuwsgierige knapen
+het dorp bekend; en het zij hij de kinderen en nieuwsgierige knapen
 wonderlijke jachtleugens diets maakte, hetzij hij de jonge meisjes
 koude hagelkorrels onder den halsdoek vallen liet, of de oude besten
 met zijne vroolijke invallen opleukerde bij het spinnewiel, altijd
@@ -16011,15 +16048,15 @@ te zijn en plotseling te voorschijn kwam, met een grijs buis met
 jachtknoopen, een stok in de hand, en een hoed, met een groenen band
 er om, op.
 
-"Ja, _Jantje_!" antwoordde de jager; "ze zijn nog te drok bezig op
-de geest.
+"Ja, _Jantje_!" antwoordde de jager; "ze zijn nog te druk bezig op
+de geest."
 
 "Je spreekt een waar woord," zei de oppasser van het Berger Bosch,
 want die was het. "Wil je niet reis opsteken?" voegde hij er bij,
 hem minzaam zijn pijp voorhoudende.
 
 "Dankje, _Jantje_!" hernam _Teun_; "'k heb van daag me tabak nog niet
-verdiend. Je bent er al vroeg hij. Heb je een strooper op 't spoor,
+verdiend. Je bent er al vroeg bij. Heb je een strooper op 't spoor,
 of hoe zit het?"
 
 "Neen, maat!" antwoordde de oppasser. "Ik ga op Schoorldam af; ik
@@ -16047,7 +16084,7 @@ met haastige schreden vervolgde.
 "Alles slaapt nog," zei _Teun_ de Jager tot zichzelven,
 "en _Sijtje_ is zeker ook weer ingesluimerd. Zouën ze allegaar
 droomen?"--"Gekheid!" vervolgde hij; en haalde zijn veldflesch te
-voorschijn; en, zich houdende alsof hij den hond toedronk: Komaan,
+voorschijn; en, zich houdende alsof hij den hond toedronk: "Komaan,
 Veldin! den eerste zen dood!"
 
 Daarop spande hij de beide hanen van zijn dubbelloop, en begon het
@@ -16470,7 +16507,11 @@ Den volgenden avond had hij den geest gegeven.
 
 
 
-De Veerschipper.
+
+
+
+
+DE VEERSCHIPPER.
 
 
 Ik heb zoo menigmaal in trekschuiten gevaren, dat ik in staat ben er
@@ -16595,7 +16636,11 @@ weer en wind."
 
 
 
-De Schippersknecht.
+
+
+
+
+DE SCHIPPERSKNECHT.
 
 
 "Indien wij eens een meid minder hielden," zei Burgemeester
@@ -16752,11 +16797,15 @@ mee as ik: as 't God blieft!"
 
 
 
-De Barbier.
+
+
+
+
+DE BARBIER.
 
 
                     Omme
-            den Heer J.D. _van den Aanzett_,
+            den Heer J. D. _van den Aanzett_,
             Chirurgus te Monnickendam.
 
 Mijn waarde Collega!
@@ -16880,7 +16929,11 @@ zaken te spotten. O Tempores! o Mora!
 
 
 
-De Huurkoetsier.
+
+
+
+
+DE HUURKOETSIER.
 
 
 De eerste schemering van den morgen ligt over de academiestad. Hier
@@ -16931,7 +16984,7 @@ met de jeune france. Een oogenblik daarna wordt er ingestegen.
 opvliegende. "Dat zegt _hij_ ook," antwoordt _Gerrit_, de zweep
 toonende. "In twee uren naar Haarlem," beveelt de heer _Die_, zijn
 mackintosh dichtknoopende. "As ze 't niet in zeven kwartier kennen,"
-zegt _Gerrit_, knipoogende, is er geen aardigheid an." "Nooit
+zegt _Gerrit_, knipoogende, "is er geen aardigheid an." "Nooit
 stappen; zelfs in 't zand niet, _Gerritje_!" roept mijnheer _Zus_,
 plaats nemende. "Ze zouen zich hebben dood te schamen," herneemt
 _Gerrit_. "Klappen dat het davert!" juicht de heer _Zoo_, het
@@ -17017,7 +17070,11 @@ me na kooi kruipen, zonder dat ik me met iets meer heb te bemoeien."
 
 
 
-Het Noordbrabantsche Meisje.
+
+
+
+
+HET NOORDBRABANTSCHE MEISJE.
 
 
 Op een mooien Augustusvoormiddag des jaars 1839, betraden twee jonge
@@ -17036,7 +17093,7 @@ van zijn stok in de zijde zettende om een oogenblik uit te blazen:
 "die drommelsche toren is nu rechts en dan links, en we vorderen niet."
 
 "Het is toch de goede weg," sprak de oudere, die het eerteeken van
-den tiendaagschen veldtocht droeg, ik ken hem wel. Zie, daar ginder,
+den tiendaagschen veldtocht droeg, "ik ken hem wel. Zie, daar ginder,
 rechts van den toren, is de molen daar we een post bij hadden."
 
 "Is het een mooi plaatsje?" vroeg de eerste, weder voorttredende.
@@ -17107,7 +17164,7 @@ dorp, of stadje, als het zoo wezen moet, dat telkens weer achter de
 boomen kruipt; zij speelde de coquette, man! en had haar vingers vol
 ringen, en haar kast vol presenten van allerlei aard...."
 
-"Geen een! ik verzeker u, dat zij niets aannam O, zoo je wist hoe
+"Geen een! ik verzeker u, dat zij niets aannam. O, zoo je wist hoe
 zij over die dingen dacht! Ik was haar vertrouwde zoowat. Zij sprak
 nog al eens veel met mij."
 
@@ -17165,7 +17222,11 @@ geloof...." zeide zij aarzelende, "ik geloof mijnheer .... _Van
 
 
 
-De Limburgsche Voerman.
+
+
+
+
+DE LIMBURGSCHE VOERMAN.
 
 
 "Goeden mergen, heern!" zei _Christoffel Hermans_, daar hij bezig
@@ -17258,7 +17319,7 @@ hierbij, dat deze manier van vooruitkomen niet duur is, en dat gij
 behalve "een glaoske bier" aan den voerman, die daar op den duur nog
 al behoefte aan heeft, met geene verdere onkosten te maken hebt, daar
 het paard zijn ruif onder den wagen met zich voert, en ook lang zoo
-maltentig en verlekkerd met is als onze goede Hollandsche paarden,
+maltentig en verlekkerd niet is als onze goede Hollandsche paarden,
 die geen anderhalf uur kunnen loopen zonder te moeten blazen, brood
 te krijgen, en te worden gedrenkt.
 
@@ -17282,7 +17343,11 @@ karakter en levenswijze zoo goed bij Holland behoort als gij en ik.
 
 
 
-De Markensche Visscher.
+
+
+
+
+DE MARKENSCHE VISSCHER.
 
 
                             Ultima Thule
@@ -17401,7 +17466,11 @@ welvarende zijn.
 
 
 
-De Jager en de Polsdrager.
+
+
+
+
+DE JAGER EN DE POLSDRAGER.
 
 
 "Morgen!" zegt de jager en hij steekt zijn groen gemutst hoofd om 't
@@ -17470,7 +17539,7 @@ groote gebeurtenissen in twijfel; de jager in het algemeen is zijn
 orakel, zijn afgod; het valt hem niet in dat er mogelijkheid bestaan
 zou van eenige opsiering, eenige vergrooting bij 's mans verhalen; en
 in 't bijzonder houdt hij _dien_ jager, met wien hij op dat oogenblik
-jaagt, voor den grootsten van alle jagers den Nimrod Nimrodorum. Ja,
+jaagt, voor den grootsten van alle jagers, den Nimrod Nimrodorum. Ja,
 zelfs, indien er iets vergroot moet worden, hij is de eerste om den
 jager die moeite te besparen, wanneer hij hem al de verhalen, die hij
 zich van hem herinnert, nogmaals te binnen brengt, en zich nogmaals
@@ -17481,7 +17550,7 @@ er de wol bij vlokken heeft zien afstuiven. Gebeurt het een enkele
 maal; het gebeurt _nooit,_ zweren jagers en polsdragers; maar het zou
 toch kunnen zijn; na een ongelukkige jacht; met sneeuw aan de lucht;
 tegen het sluiten;... dat er een haas ... _meegenomen_ moet worden,
-die--op de grensscheiding van een privatievejacht ligt,--kortom! om het
+die--op de grensscheiding van een privatieve jacht ligt,--kortom! om het
 hatelijk woord dan maar te zeggen,--in 't leger moet worden geschoten,
 ofschoon er dan ook strikt genomen een pols en een polsdrager is om
 hem te doen rijzen ... Poef! de lepels hebben zich niet boven het
@@ -17531,25 +17600,29 @@ te halen, een wild dier hem hebben verslonden, of wel, medelijdende
 natuurgenooten zullen hem, daar zij hem vonden, wentelende in zijn
 "zweet" (d.w.z. bloed), op hun rug hebben, weggedragen, tot dicht bij
 de naaste eendekooi, waar hij, onder bescherming van het kooirecht,
-den adem rustie heeft kunnen uitblazen, aan het ruige kantje van een
+den adem rustig heeft kunnen uitblazen, aan het ruige kantje van een
 kille sloot, wel overtuigd dat het hem niet aan hagel ontbroken heeft.
 
 
 
-De Leidsche Peuëraar.
 
 
-    Een Leidenaar sprak eenmaal Charon aan:
-    "Ik bid u, bootsman! hoor mijn beden!
-    Zoo 'k eenmaal in uw schuit moet treden,
-    Och, laat het zijn bij donkre maan!
-    Indien 'k mag peuren uit uw bootje,
-    Krijgt gij de helft van 't waterzootje,
-    En 'k wijs u bovendien den grond,
-    Daar ik mijn vetste wurmen vond."
 
 
-_Studenten-Almanak_ 1836.
+DE LEIDSCHE PEUËRAAR.
+
+
+                            Een Leidenaar sprak eenmaal Charon aan:
+                            "Ik bid u, bootsman! hoor mijn beden!
+                            Zoo 'k eenmaal in uw schuit moet treden,
+                            Och, laat het zijn bij donkre maan!
+                            Indien 'k mag peuren uit uw bootje,
+                            Krijgt gij de helft van 't waterzootje,
+                            En 'k wijs u bovendien den grond,
+                            Daar ik mijn vetste wurmen vond."
+
+                            _Studenten-Almanak_ 1836.
+
 
 Het wapen der stad Leiden vertoont de _sleutels_ van _St. Pieter_. Een
 onvergefelijke misslag! Het had zijn _vischnet_ moeten wezen. Het
@@ -17574,7 +17647,7 @@ Als ik echter zeide dat de stad Leiden een vischnet voeren moest,
 noemde ik het gepaste, maar het meest gepaste nog niet. Ik sprak
 van het net, om bij _St. Pieter_ te blijven; maar zoo gij mij vraagt
 wat het eigenlijk wezen moest? Een paar gekruiste hengelrieten, een
-paar vischhoeken overkruis. Het is! zelden om den visch, dat men te
+paar vischhoeken overkruis. Het is zelden om den visch, dat men te
 Leiden vischt; het is om te visschen; en de langzaamste genieting
 van dit genot gaat voor de beste. Niet om met een enkelen trek
 van de zegen, een tweemaal daags ophalen van een schakel, of met
@@ -17586,7 +17659,7 @@ een langwijlig aaltje, het leuteren van een zeurig postje aan den
 onmerkbaren hoek, is hem genoeg. Katvisch is hem even welkom als
 doop- en waterbaars. Katvisch is den Laienaar dierbaar! Al wat aan
 den angel bijt en, met bloedende kieuwen en half uitgeboorde oogen,
-vanden angel kan worden afgescheurd--ziedaar wat hem gelijkelijk
+van den angel kan worden afgescheurd--ziedaar wat hem gelijkelijk
 gelukkig maakt.--"Een hengelaar kan geen goed mensch zijn," heeft
 Lord _Byron_ gezegd; maar de Laienaar heeft één troost: "'en slecht
 minsch die 't zait!" Mij dunkt; ik hoor het hem antwoorden.
@@ -17672,7 +17745,11 @@ Want dezen naam draagt het peurvaartuig in den huiselijken kring
 
 
 
-De Noordhollandsche Boerin.
+
+
+
+
+DE NOORDHOLLANDSCHE BOERIN.
 
 
 Een flink wijf is _Gees Riek_, rijzig, kloek en welgemaakt. Haar
@@ -17784,7 +17861,7 @@ opgeschreven, aldus:
 
 "Dinsdag anësniejen, vrijdag anëteekend. Je zelt zeggen: hoe dat zoo
 haastig? Maar we waren met zijn drieën jonge borsten vrijgezel, en we
-hadden mekaar der de hand op 'geven; die 't lest trouwt, die zei 't
+hadden mekaar der de hand op 'geven; die 't lest trouwt, die zel 't
 gelag betalen. Nou, den iene van ons die was al weg, met de Franschen,
 weetje; daar hebben we nooit meer van 'hoord. Doodgeschoten, wil ik
 denken, deur de kezakken. Maar zaterdag hoor ik, dat me broer--die
@@ -17801,7 +17878,11 @@ bedoelende--"de witkoppen te bedotten, _da's_ geen duit weerd. Altijd
 
 
 
-De Noordhollandsche Boer.
+
+
+
+
+DE NOORDHOLLANDSCHE BOER.
 
 
 Kom op een vrijdag voormiddag in het kaasseizoen te Alkmaar! De meer
@@ -17938,7 +18019,11 @@ en wat dies meer zij.
 
 
 
-De Baker.
+
+
+
+
+DE BAKER.
 
 
 De naam van _Baker_ is een zonneklaar bewijs dat er (schoon 't volk
@@ -18043,7 +18128,10 @@ een baker, niets voortreffelijkers van hem geworden is.
 
 
 
-Brief van Hildebrand aan Schipper Rietheuvel [35]
+
+
+
+BRIEF VAN HILDEBRAND AAN SCHIPPER RIETHEUVEL [35]
 
 
 Aan den eerzamen Dirk Rietheuvel, bijgenaamd den Mottige,
@@ -18260,6 +18348,7 @@ hoofdstad Berlijn van een _Schietblaasbalg_ voorzien is.
 
 
 
+
 AANTEEKENINGEN
 
 
@@ -18286,7 +18375,7 @@ in die z.g. wereldtaal. (Arnhem, de Muinck & Co.)] _Bijt._ 1891.
 
 [5] _Hildebrands_ _Camera Obscura_ door
 Joh_s_. _Dyserinck_. Vermeerderde herdruk uit "de Gids" van
-Dec. 1881. Middelburg, J.C. en W. Altorffer. 1882.
+Dec. 1881. Middelburg, J. C. en W. Altorffer. 1882.
 
 [6] Welk een vereenvoudiging brengen de "24 Artikelen" in 't lager
 onderwijs! Het heele jonge Holland wint in gemak bij de omwenteling
@@ -18396,7 +18485,7 @@ te epi tis thalattis oikein, kai dia tou udatos oron ton ilion kai ta
 alla astra, tin thalattan igoito ouranon einai, k. t. l., Plato
 (Phaedon. C. 58.)
 
-[30] Gen. I vs,. 2. Vgl. Deut. XXXII. vs. 11. Hebr.
+[30] Gen. I vs. 2. Vgl. Deut. XXXII. vs. 11. Hebr.
 
 [31] Het volgende stukje, hier om den wille der volledigheid opgenomen,
 is niet meer dan een grap. Het is de _parodie_ van een brief aan
@@ -18788,3 +18877,4 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
